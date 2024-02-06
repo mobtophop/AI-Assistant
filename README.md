@@ -6,3 +6,5 @@ How to use:
 3. Once response will be received  it will be shown below and duplicated as a speach.
 4. Once the speach replay will be stoped voice recognition will be activated again
 5. If you would like to stop speach play you can use mic button
+
+![](sample.gif)

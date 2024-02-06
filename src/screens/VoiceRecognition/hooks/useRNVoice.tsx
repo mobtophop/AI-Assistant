@@ -39,7 +39,7 @@ export const useRNVoice = (
                 setMessage(newValue);
                 handleStopRecognizing();
             }
-        }, 3000)
+        }, 1500)
     )
 
     useEffect(() => throttled.current(state.results[0] || ""), [state.results?.[0]])
